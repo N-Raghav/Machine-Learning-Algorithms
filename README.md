@@ -8,3 +8,4 @@ Welcome to the CS3802 Machine Learning Algorithms Lab repository! This repositor
 2. [Multiple Regression](#multiple-regression)
 3. [Logistic Regression](#logistic-regression)
 4. [Decision Trees](#decision-trees)
+5. [Adaboost](#adaboost)

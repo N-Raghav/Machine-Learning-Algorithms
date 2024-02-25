@@ -1,0 +1,9 @@
+Accuracy for each algorithm:
+KNN : 0.8377
+Logistic Regression : 0.8434
+Naive Bayes: 0.8424
+Decision Trees: 0.8348
+Support Vector Machines: 0.8353
+
+Best Algorithm Justification:
+Logistic Regression assumes a linear relationship between the features and the log-odds of the target variable. Since the underlying relationship in the data is linear, Logistic Regression can capture it well. Logistic Regression is less prone to overfitting when dealing with irrelevant features or noise in the data. It tends to perform well in situations where the dataset contains unnecessary or less informative features. Logistic Regression is computationally efficient, especially with large datasets. It can handle a substantial number of features and observations without becoming computationally burdensome, which is advantageous in scenarios with extensive datasets.

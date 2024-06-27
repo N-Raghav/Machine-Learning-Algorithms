@@ -11,3 +11,4 @@ Welcome to the CS3802 Machine Learning Algorithms Lab repository! This repositor
 5. [Adaboost](#adaboost)
 6. [Principal Component Analysis](#principal-component-analysis)
 7. [Neural Networks](#neural-networks)
+8. [Association Rule](#association-rule)
